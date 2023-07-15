@@ -14,12 +14,14 @@ I'm Salwa, a passionate full-stack developer who thrives on continuous learning 
   ![Redux](https://img.shields.io/badge/-Redux-purple)
   ![Three.js](https://img.shields.io/badge/-Three.js-green)
 
-- Back-end Development: 
+- Back-end Development:
+  
   ![Laravel](https://img.shields.io/badge/-Laravel-red)
   ![PHP](https://img.shields.io/badge/-PHP-purple)
   ![SQL](https://img.shields.io/badge/-SQL-orange)
 
-- Other : 
+- Other :
+  
   ![WordPress](https://img.shields.io/badge/-WordPress-blue)
 
 ### Let's Collaborate! 🤝
