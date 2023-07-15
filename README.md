@@ -28,7 +28,7 @@ I'm Salwa, a passionate full-stack developer who thrives on continuous learning 
 
 If you're looking for someone well-versed in Git and GitHub to contribute to your projects or offer guidance on version control best practices, feel free to reach out. You can connect with me through the following channels:
 
-- Email: [your-email@example.com](mailto:salwayehyaabuafash"gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/salwa-yehya-794236253/)
+- Email: [salwayehyaabuafash@gmail.com](mailto:salwayehyaabuafash@gmail.com)
+- LinkedIn: [salwa-yehya](https://www.linkedin.com/in/salwa-yehya-794236253/)
 
 Let's collaborate and take your projects to new heights with efficient version control using Git and GitHub!
